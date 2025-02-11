@@ -26,13 +26,23 @@ public class PrimeNumber {
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        for (int i = 0 ; i <= 100 ; i++ ){
+        System.out.print("Enter a number : ");
+        int number = s.nextInt();
+        Boolean primeNumber = IsPrimeNumber(number);
+        if (primeNumber) {
+            System.out.println(number + " is a prime number.");
+        } else {
+            System.out.println(number + " is not a prime number.");
+        }
+
+        //for finding prime numbers from 100.
+        /*for (int i = 0 ; i <= 100 ; i++ ){
             Boolean primeNumber = IsPrimeNumber(i);
             if (primeNumber) {
                 System.out.println(i + " is a prime number.");
             } else {
                 System.out.println(i + " is not a prime number.");
             }
-        }
+        }*/
     }
 }
