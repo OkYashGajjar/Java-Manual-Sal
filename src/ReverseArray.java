@@ -23,7 +23,6 @@ public static void ReverseNumbers(int[] numbers) {
         for ( int i = (numbers.length-1);  i >= 0 ;  i-- ){
             System.out.print(numbers[i] + " ");
         }
-
     }
     public static void main(String[] args) {
         int[] arrayNumbers = new int[10];
@@ -33,7 +32,7 @@ public static void ReverseNumbers(int[] numbers) {
             System.out.print("Enter " + (i + 1) + " number : ");
             arrayNumbers[i] = sc.nextInt();
         }
-        //Calling method to revese the ArrayNumbers.
+        //Calling method to reverse the ArrayNumbers.
         System.out.print("Reversed Numbers Is : ");
         ReverseNumbers(arrayNumbers);
     }
