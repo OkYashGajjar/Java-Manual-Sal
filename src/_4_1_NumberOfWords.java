@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class NumberOfWords_4_1 {
+public class _4_1_NumberOfWords {
     public static int countWords(String str) {
         int count = 1;
         if (str == null || str.isEmpty()) {

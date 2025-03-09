@@ -30,7 +30,7 @@ class B implements A12{
     }
 }
 
-public class Interfaces_8_1 {
+class _8_1_Interfaces {
     public static void main(String[] args){
         B obj = new B();
         obj.methodA();

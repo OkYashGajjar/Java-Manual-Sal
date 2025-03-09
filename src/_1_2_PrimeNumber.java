@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class PrimeNumber_1_2 {
+public class _1_2_PrimeNumber {
 
     public static Boolean IsPrimeNumber(int number) {
         Boolean isPrime = true;

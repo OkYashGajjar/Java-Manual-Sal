@@ -18,8 +18,8 @@ class NewDog extends BabyDog{
 }
 
 
-public class MultiLevelInheritance {
-    public static void main(String args[]){
+public class _5_3_MultiLevelInheritance {
+    public static void main(String[] args){
         NewDog obj = new NewDog();
         obj.eat();
         obj.weep();

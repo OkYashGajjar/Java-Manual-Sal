@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class GreaterAmongThree_1_3 {
+public class _1_3_GreaterAmongThree {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter first number :");

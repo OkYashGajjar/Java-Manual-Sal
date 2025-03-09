@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ReverseArray_2_2 {
+public class _2_2_ReverseArray {
 
 //    public static void ReverseNumbers(int[] numbers) {
 //        int[] reversedNumbers = new int[10];

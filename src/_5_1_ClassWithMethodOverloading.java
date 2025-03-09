@@ -15,7 +15,7 @@ class FindArea{
     }
 }
 
-public class ClassWithMethodOverloading_5_1 {
+class _5_1_ClassWithMethodOverloading {
     public static void main(String args[]){
         FindArea obj = new FindArea();
         System.out.println("Area of circle " + obj.area(2, true));

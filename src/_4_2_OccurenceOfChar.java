@@ -1,6 +1,4 @@
-import java.util.*;
-
-public class OccurenceOfChar_4_2 {
+public class _4_2_OccurenceOfChar {
     // Brute-force method to count character in given string
     public static void countChar(String str){
         // 2 loops traversing len of str and i

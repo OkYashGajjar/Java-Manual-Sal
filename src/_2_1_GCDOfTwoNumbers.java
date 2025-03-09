@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class GCDOfTwoNumbers_2_1 {
+public class _2_1_GCDOfTwoNumbers {
 
     public static void GCD ( int n1, int n2) {
         int higher;
