@@ -35,7 +35,7 @@ class ValidateTime {
     }
 
 
-public class ExceptionHandling_6_1 {
+public class _6_1_ExceptionHandling {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter Time : ");

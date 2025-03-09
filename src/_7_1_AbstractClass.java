@@ -34,7 +34,7 @@ class Tomato extends Vegetable{
     }
 }
 
-public class AbstractClass_7_1 {
+public class _7_1_AbstractClass {
     public static void main(String[] args){
         Vegetable potato = new Potato("Brown");
         Vegetable brinjal = new Brinjal("Purple");
